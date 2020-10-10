@@ -11,10 +11,12 @@
     "typescript",
     "course"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Maximilian Karl",
   "license": "ISC",
   "devDependencies": {},
   "dependencies": {
+    "@types/lodash": "^4.14.161",
+    "lodash": "^4.17.20",
     "ts-loader": "^6.2.1",
     "typescript": "^3.7.2",
     "webpack": "^4.41.2",
